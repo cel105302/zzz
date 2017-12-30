@@ -1,0 +1,9 @@
+dataDir=/home/carlche/zookeeper-3.4.9/data
+dataLogDir=/home/carlche/zookeeper-3.4.9/logs
+
+
+
+C:\Program Files\Java\jdk1.8.0_131\bin;
+
+
+jhjhuhjjuy
